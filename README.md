@@ -1,4 +1,4 @@
-![image](https://github.com/barathsubramani/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/118542617/c14725d8-e333-454d-b434-dc355e9166de)# Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem
+# Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem
 **AIM:**
 
 To implement a perceptron for classification using Python
